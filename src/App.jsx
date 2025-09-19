@@ -1,7 +1,7 @@
 import {
 
 } from "react-icons/fa"
-import Navbar from "./components/navbar"
+import Navbar from "./components/Navbar"
 import Header from "./components/Header"
 import Hero from "./components/Hero"
 import Article from "./components/Article"
